@@ -8,3 +8,10 @@
 
 ## 31 may 2021 - lesson 2-3-4
 
+## 1 jun 2021 - lesson 5
+
+## sudo apt-get install virtualbox
+
+
+
+
